@@ -1,0 +1,9 @@
+Sales Dashboard Insights:
+
+1. Sales Over Months: The sales trend shows fluctuations throughout the year, with a noticeable peak towards the end of the year (e.g., November-December) and a dip in early months.
+
+2. Sales by State: California, New York, and Texas appear to be the top-performing states in terms of total sales, indicating strong markets in these regions.
+
+3. Sales by Category: Electronics and Furniture categories contribute significantly to overall sales, while Office Supplies also hold a substantial share.
+
+
